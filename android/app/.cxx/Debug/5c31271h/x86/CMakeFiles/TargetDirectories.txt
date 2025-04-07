@@ -1,2 +1,0 @@
-C:/Users/Mohammad.Natour/FlutterProjects/project_xenon/android/app/.cxx/Debug/5c31271h/x86/CMakeFiles/edit_cache.dir
-C:/Users/Mohammad.Natour/FlutterProjects/project_xenon/android/app/.cxx/Debug/5c31271h/x86/CMakeFiles/rebuild_cache.dir
